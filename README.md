@@ -1,5 +1,5 @@
 # JogoDaVelha- React.JS
-Primeiro projetinho usando React.JS. Projeto criado seguindo o tutorial da documentação
+Primeiro projetinho usando React.JS. Projeto criado seguindo o tutorial da documentação ( [LINK TUTORIAL](https://pt-br.reactjs.org/tutorial/tutorial.html#function-components) )
 
 - Te permite jogar o Jogo da Velha,
 - Indica quando um dos jogadores ganhou o jogo,
