@@ -1,4 +1,4 @@
-# JogoDaVelha-JSX
+# JogoDaVelha- React.JS
 Primeiro projetinho usando React.JS. Projeto criado seguindo o tutorial da documentação
 
 - Te permite jogar o Jogo da Velha,
